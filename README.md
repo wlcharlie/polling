@@ -1,4 +1,4 @@
-# SCMP Tech Test
+# Polling
 
 ## Requirements
 
