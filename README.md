@@ -11,6 +11,12 @@ npm run install // is not `npm install`, don't typo!
 npm run dev
 ```
 
+## Note
+
+The frontend web view is in /app, and the apis is in /api.
+In development, the two app and api run in same network but different port and the web app use proxy to commnunicate with api server.
+Please make sure the proxy setting in `vite.config` is all set
+
 ## APIs
 
 - GET `./poll`: list all polls.
