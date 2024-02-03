@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "id": "878",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "66349",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "91252",
+      "pollId": 1,
+      "pollOptionId": 2
+    },
+    {
+      "id": "69321",
+      "pollId": 1,
+      "pollOptionId": 2
+    },
+    {
+      "id": "22093",
+      "pollId": 1,
+      "pollOptionId": 2
+    },
+    {
+      "id": "96229",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "65996",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "22527",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "57259",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "50345",
+      "pollId": 1,
+      "pollOptionId": 1
+    },
+    {
+      "id": "79436",
+      "pollId": 1,
+      "pollOptionId": 2
+    },
+    {
+      "id": "17001",
+      "pollId": 2,
+      "pollOptionId": 3
+    },
+    {
+      "id": "41702",
+      "pollId": 2,
+      "pollOptionId": 4
+    },
+    {
+      "id": "35368",
+      "pollId": 2,
+      "pollOptionId": 3
+    },
+    {
+      "id": "40123",
+      "pollId": 2,
+      "pollOptionId": 3
+    },
+    {
+      "id": "20451",
+      "pollId": 3,
+      "pollOptionId": 5
+    },
+    {
+      "id": "55716",
+      "pollId": 5,
+      "pollOptionId": 13
+    },
+    {
+      "id": "18596",
+      "pollId": 3,
+      "pollOptionId": 6
+    }
+  ]
+}
