@@ -4,12 +4,15 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev:app": "cd app && npm run dev",
     "dev:api": "cd api && npm run dev",
+    "dev:app": "cd app && npm run dev",
     "dev": "concurrently \"npm run dev:api\" \"npm run dev:app\"",
-    "install": "cd api && npm install && cd ../app && npm install"
+    "postinstall": "cd api && npm install && cd ../app && npm install"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
 }

@@ -7,7 +7,7 @@ This project using node.js `v16.18.1` on development. If your version can not ru
 ## Run the project
 
 ```
-npm run install // is not `npm install`, don't typo!
+npm install
 npm run dev
 ```
 
